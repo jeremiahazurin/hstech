@@ -5,6 +5,7 @@
     <title>Jeremiah Azurin</title>
 	<link rel='shortcut icon' type='image/x-icon' href='images/ja.ico'/>
     <?php include("includes/htmlhead.php"); ?>
+ <link rel="stylesheet" href="index.css" type="text/css" />
   </head>
 
   <body id="about">
